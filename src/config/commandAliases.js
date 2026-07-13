@@ -1,7 +1,7 @@
 /**
  * Command Aliases Configuration
  * Maps shortened command names to their full command names
- */
+ *;
 
 export const commandAliases = {
     'bal': 'balance',
